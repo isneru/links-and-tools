@@ -1,0 +1,173 @@
+[
+  {
+    "title": "HTML Invisible Character",
+    "description": "Blank Text (Copy & Paste Invisible Character)",
+    "link": "https://www.editpad.online/blank-text/",
+    "tags": {
+      "type": "snippets",
+      "language": "HTML"
+    }
+  },
+  {
+    "title": "Reverse a String",
+    "description": "Reverse a String With a Decrementing For Loop",
+    "link": "https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/#2-reverse-a-string-with-a-decrementing-for-loop",
+    "tags": {
+      "type": "snippets",
+      "language": "JavaScript"
+    }
+  },
+  {
+    "title": "React-Number-Format",
+    "description": "React component to format number in an input or as a text",
+    "link": "https://www.npmjs.com/package/react-number-format",
+    "tags": {
+      "type": "packages",
+      "language": "React"
+    }
+  },
+  {
+    "title": "React-Toastify",
+    "description": "React-Toastify allows you to add notifications to your app with ease. No more nonsense!",
+    "link": "https://www.npmjs.com/package/react-toastify",
+    "tags": {
+      "type": "packages",
+      "language": "React"
+    }
+  },
+  {
+    "title": "Get Waves",
+    "description": "Create SVG Waves for your next design",
+    "link": "https://getwaves.io/",
+    "tags": {
+      "type": "assets",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Fontpair",
+    "description": "Free fonts and font pairings to use for your next design project",
+    "link": "https://www.fontpair.co/",
+    "tags": {
+      "type": "text",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Happy Hues",
+    "description": "Curated colors in context.",
+    "link": "https://www.happyhues.co/",
+    "tags": {
+      "type": "colors",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Haikei",
+    "description": "Generate unique SVG design assets",
+    "link": "https://haikei.app/",
+    "tags": {
+      "type": "assets",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Coolors",
+    "description": "The super fast color palettes generator!",
+    "link": "https://coolors.co/",
+    "tags": {
+      "type": "colors",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "UnDraw - storyset",
+    "description": "Awesome free customizable illustrations for your next project",
+    "link": "https://storyset.com/",
+    "tags": {
+      "type": "assets",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "UnDraw - illustrations",
+    "description": "Open-source illustrations for any idea you can imagine and create",
+    "link": "https://undraw.co/illustrations",
+    "tags": {
+      "type": "assets",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Freepik",
+    "description": "All the assets you need, in one place",
+    "link": "https://www.freepik.com/",
+    "tags": {
+      "type": "images",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Unsplash",
+    "description": "The internet's source of freely-usable images.",
+    "link": "https://unsplash.com/",
+    "tags": {
+      "type": "images",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Flaticon",
+    "description": "Free Icons and Stickers",
+    "link": "https://www.flaticon.com/",
+    "tags": {
+      "type": "assets",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Illustrations",
+    "description": "Open source illustrations kit",
+    "link": "https://illlustrations.co/",
+    "tags": {
+      "type": "assets",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Color Hunt",
+    "description": "Color Palettes for Designers and Artists",
+    "link": "https://colorhunt.co/",
+    "tags": {
+      "type": "colors",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "1001 Fonts",
+    "description": "New & Fresh Fonts",
+    "link": "https://www.1001fonts.com/",
+    "tags": {
+      "type": "text",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Font Squirrel",
+    "description": "Free Font Utopia",
+    "link": "https://www.fontsquirrel.com/",
+    "tags": {
+      "type": "text",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Wordmark",
+    "description": "Helps you choose fonts for your creative projects",
+    "link": "https://wordmark.it/",
+    "tags": {
+      "type": "text",
+      "language": "CSS"
+    }
+  }
+]
