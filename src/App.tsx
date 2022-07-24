@@ -23,28 +23,28 @@ export const App = () => {
               val.title.toLocaleLowerCase().includes(search.toLocaleLowerCase())
             ) {
               return val;
-            } /* else if (
-            val.tags.language
-              .toLocaleLowerCase()
-              .includes(search.toLocaleLowerCase())
-          ) {
-            return val;
-          } else if (
-            val.tags.type
-              .toLocaleLowerCase()
-              .includes(search.toLocaleLowerCase())
-          ) {
-            return val;
-          } */
+            } else if (
+              val.tags.language
+                .toLocaleLowerCase()
+                .includes(search.toLocaleLowerCase())
+            ) {
+              return val;
+            } else if (
+              val.tags.type
+                .toLocaleLowerCase()
+                .includes(search.toLocaleLowerCase())
+            ) {
+              return val;
+            }
           })
-          .map((value, id) => {
+          .map((value, keyid) => {
             return (
               <a
                 href={value.link}
                 rel="noreferrer"
                 target="_blank"
                 className="helplink"
-                key={id}>
+                key={keyid}>
                 <h1 className="title">{value.title}</h1>
                 <span className="description">{value.description}</span>
                 <span className="lang">

@@ -169,5 +169,86 @@
       "type": "text",
       "language": "CSS"
     }
+  },
+  {
+    "title": "Delete github repository commits",
+    "description": "Delete All commit history in github repo",
+    "link": "https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github",
+    "tags": {
+      "type": "help",
+      "language": "Git"
+    }
+  },
+  {
+    "title": "React scroll animations with Framer Motion",
+    "description": "Make easy scroll animations with Framer Motion and react intersection observer",
+    "link": "https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github",
+    "tags": {
+      "type": "snippets",
+      "language": "React"
+    }
+  },
+  {
+    "title": "Google Fonts",
+    "description": "Our robust catalog of open-source fonts and icons, makes it easy to integrate expressive type and icons seamlessly—no matter where you are in the world.",
+    "link": "https://fonts.google.com/",
+    "tags": {
+      "type": "text",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Font Awesome",
+    "description": "Take the hassle out of icons in your website.",
+    "link": "https://fontawesome.com/icons",
+    "tags": {
+      "type": "assets",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Icons 8",
+    "description": "Animated icons",
+    "link": "https://icons8.com/animated-icons",
+    "tags": {
+      "type": "assets",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Pexels",
+    "description": "The best free stock photos, royalty free images & videos shared by creators.",
+    "link": "https://www.pexels.com/",
+    "tags": {
+      "type": "images",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "Coverr",
+    "description": "Beautiful Free Stock Video Footage",
+    "link": "https://coverr.co/",
+    "tags": {
+      "type": "videos",
+      "language": "CSS"
+    }
+  },
+  {
+    "title": "awwwards",
+    "description": "The awards for design, creativity and innovation on the Internet.",
+    "link": "https://www.awwwards.com/",
+    "tags": {
+      "type": "ideas",
+      "language": "HTML"
+    }
+  },
+  {
+    "title": "Dribbble",
+    "description": "Millions of designers and agencies around the world showcase their portfolio work on Dribbble - the home to the world's best design and creative professionals.",
+    "link": "https://dribbble.com/",
+    "tags": {
+      "type": "ideas",
+      "language": "HTML"
+    }
   }
 ]

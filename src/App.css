@@ -60,6 +60,7 @@ body {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 2rem;
   padding: 0 10%;
+  margin-bottom: 4rem;
 }
 
 .helplink {
